@@ -1,6 +1,6 @@
 
 public class Lista<T> {
-    No<T> inicio, fim;
+    private No<T> inicio, fim;
     int total;
 
     // Método para inserir um elemento na lista
